@@ -1,2 +1,2 @@
 # machine-learning-ex
-Excercised from Andrew Ng Neural Network Course
+Excercised from Andrew Ng Machine Learning Course
